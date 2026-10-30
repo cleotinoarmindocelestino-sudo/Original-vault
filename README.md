@@ -34,3 +34,19 @@ de compra e venda de moda.
 
 ## Estado atual
 Em desenvolvimento.
+original-vault/
+│
+├── apps/
+│   ├── web/                 # Site Next.js
+│   └── mobile/              # Android e iPhone (Expo)
+│
+├── packages/
+│   ├── database/            # Prisma e PostgreSQL
+│   ├── shared/              # Tipos e validações
+│   └── ui/                  # Componentes partilhados
+│
+├── docs/
+│   └── architecture.md
+│
+├── package.json
+└── README.md
